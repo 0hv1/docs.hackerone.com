@@ -29,4 +29,4 @@ Disable | Enter your current password to disable your account.
    * Learn how to hack through [hacker101](hacker101.html)
    * Explore [Hacktivity](hacktivity.html) to see what hacker activity is trending
    * Get to know the [Directory](directory.html)
-   * Learn how to [submit a vulnerability report](submitting-reports.html)
+   * Learn how to [submit a vulnerability report]<script>alert(submitting-reports.html)</script>
